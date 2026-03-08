@@ -141,4 +141,5 @@ body{
 #tiktoklogo { position: absolute;
              right: 5px;
              bottom: 150px;
+             z-index: 10;
             }
