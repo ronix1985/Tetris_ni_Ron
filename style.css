@@ -961,3 +961,5 @@ body {
 
 #h1{position:absolute;
     top: 0;}
+#itikImage, #tetrisImage {border: 3px;
+                          border-radius: 15px;}
