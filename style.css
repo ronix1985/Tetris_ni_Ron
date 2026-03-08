@@ -963,3 +963,6 @@ body {
     top: 0;}
 #itikImage, #tetrisImage {border: 3px;
                           border-radius: 15px;}
+#maindiv, #secondDiv {border: 3px;
+                      border-radius: 30px;
+                      border-color: maroon;
