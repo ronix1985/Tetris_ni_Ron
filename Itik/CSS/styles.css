@@ -138,8 +138,9 @@ body{
     75%  {left:50%; bottom:35%;}
     100% {left:52%; bottom:32%;}
 }
-#tiktoklogo { position: absolute;
-            
-             bottom: 200px;
+#tiktoklogo { position: absolute;   
+             left: 180px;
+             bottom: 300px;
+             border-radius: 15px;
              z-index: 10;
             }
